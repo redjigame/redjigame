@@ -1,8 +1,8 @@
-Hi there! I am Renaud, a french developer living in the south of brazil since 6 years.
+Hi there! I am Renaud, a French developer living in the south of Brazil since 6 years. I am actually developer C# using Unity and .Net.
 
 <div align="center">
   <a href="https://github.com/redjigame">
-  
+
 </div>
 
 - 👋 Hi, I’m Renaud Regeard
