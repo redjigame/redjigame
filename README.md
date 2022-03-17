@@ -5,12 +5,10 @@ Hi there! I am Renaud, a french developer living in the south of brazil since 6 
   
 </div>
 
-- 👋 Hi, I’m @redjigame
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Renaud Regeard
+- 👀 I’m interested to work and learn
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--   🇫🇷 
+
 
   <div align="center">
   <a href="https://github.com/redjigame">
