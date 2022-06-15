@@ -7,7 +7,6 @@ Hi there! I am Renaud, a French developer living in the south of Brazil since 6 
 
 - 👋 Hi, I’m Renaud Regeard
 - 👀 I’m interested to work and learn
-- 🌱 I’m currently student in blockchain developement with Rust and Solana.
 
 
   <div align="center">
