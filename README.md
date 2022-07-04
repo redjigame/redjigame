@@ -6,7 +6,8 @@ Hi there! I am Renaud, a French developer living in the south of Brazil since 6 
 </div>
 
 - 👋 Hi, I’m Renaud Regeard
-- 👀 I’m interested to work and learn
+- 📝 I’m interested to work and learn
+- ⚙ Actually learning cybersecurity
 
 
   <div align="center">
