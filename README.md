@@ -31,7 +31,7 @@ Hi there! I am Renaud, a French developer living in the south of Brazil since 6 
 </div>
 
 <div align="left">
-  https://tryhackme.com/redji/badges/ohsint
+  <img align="center" alt="Renaud-Gimp" height="30" width="40" src="https://tryhackme.com/redji/badges/ohsint"/>
 </div>
     
     
