@@ -51,9 +51,8 @@ Hi there! I am Renaud, a French developer living in the south of Brazil since 6 
 </div>
     
 <div align="center" style="display: inline_block">
-
   <img align="center" alt="Renaud-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Renaud-VsCode" height="30" width="40"src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"/>
+  <img align="center" alt="Renaud-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
 </div>
 
 
