@@ -15,11 +15,17 @@ Hi there! I am Renaud, a French developer living in the south of Brazil since 6 
   <img align="center" alt="Renaud-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>       <img align="center" alt="Renaud-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Renaud-Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
   <img align="center" alt="Renaud-Php" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
+  <img align="center" alt="Renaud-Bash" height="30" width="40"src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/>
 </div> 
   
 <h2>Framework</h2>
 <div style="display: inline_block">  
   <img align="center" alt="Renaud-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+</div>
+  
+<h2>DataBase</h2>
+<div style="display: inline_block">  
+<img align="center" alt="Renaud-Dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 </div>
   
 <h2>Front-End Development</h2>
