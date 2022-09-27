@@ -15,7 +15,12 @@ Hi there! I am Renaud, a French developer living in the south of Brazil since 6 
   <img align="center" alt="Renaud-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>       <img align="center" alt="Renaud-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Renaud-Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
   <img align="center" alt="Renaud-Php" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
-</div>    
+</div> 
+  
+<h2>Back-End Development</h2>
+<div style="display: inline_block">  
+  <img align="center" alt="Renaud-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+</div>
   
 <h2>Front-End Development</h2>
 <div style="display: inline_block">
@@ -33,8 +38,6 @@ Hi there! I am Renaud, a French developer living in the south of Brazil since 6 
     
 <div align="center" style="display: inline_block">
 
-  <img align="center" alt="Renaud-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  
   <img align="center" alt="Renaud-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   <img align="center" alt="Renaud-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Renaud-Gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" />
