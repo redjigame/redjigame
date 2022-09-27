@@ -10,8 +10,8 @@ Hi there! I am Renaud, a French developer living in the south of Brazil since 6 
 - 📝 I’m interested to work and learn
 - ⚙ Actually learning cybersecurity
   
-<div align="center" style="display: inline_block">
-        <h2>Front-End</h2>
+<divstyle="display: inline_block">
+        <h2>Back-End</h2>
         <img align="center" alt="Renaud-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         <img align="center" alt="Renaud-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>    
