@@ -10,7 +10,7 @@ Hi there! I am Renaud, a French developer living in the south of Brazil since 6 
 - 📝 I’m interested to work and learn
 - ⚙ Actually learning cybersecurity
   
-  <div>
+  <div style="display: inline_block">
     <div style="display: inline_block">
       <h2>Front-End</h2>
       <img alt="Renaud-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
