@@ -48,6 +48,8 @@ Hi there! I am Renaud, a French developer living in the south of Brazil since 6 
   <a href="https://github.com/redjigame">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=redjigame&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redjigame&layout=compact&langs_count=7&theme=dark"/>
+  
+  <br/>
 </div>
     
 <div align="center" style="display: inline_block">
