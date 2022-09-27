@@ -1,7 +1,8 @@
 Hi there! I am Renaud, a French developer living in the south of Brazil since 6 years. I am actually developer C# using Unity and .Net.
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/redjigame">
+    
 
 </div>
 
@@ -11,6 +12,8 @@ Hi there! I am Renaud, a French developer living in the south of Brazil since 6 
   
   <div align="center" style="display: inline_block">
     <h2>Front-End</h2>
+    <img align="center" alt="Renaud-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Renaud-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
 
 
