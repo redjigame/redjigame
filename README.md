@@ -25,8 +25,8 @@ Hi there! I am Renaud, a French developer living in the south of Brazil since 6 
   
 <h2>DataBase</h2>
 <div style="display: inline_block">  
-<img align="center" alt="Renaud-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="Renaud-MSSQLS" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
+<img align="center" alt="Renaud-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align="center" alt="Renaud-MSSQLS" height="40" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
 </div>
   
 <h2>Front-End Development</h2>
