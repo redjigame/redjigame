@@ -8,6 +8,10 @@ Hi there! I am Renaud, a French developer living in the south of Brazil since 6 
 - 👋 Hi, I’m Renaud Regeard
 - 📝 I’m interested to work and learn
 - ⚙ Actually learning cybersecurity
+  
+  <div align="center" style="display: inline_block">
+    <h2>Front-End</h2>
+  </div>
 
 
   <div align="center">
