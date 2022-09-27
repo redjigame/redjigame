@@ -29,9 +29,11 @@ Hi there! I am Renaud, a French developer living in the south of Brazil since 6 
       <img align="center" alt="Renaud-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
 </div>
   
-  <h2>Game Engine</h2>
+  <h2>Game Development</h2>
 <div style="display: inline_block">  
   <img align="center" alt="Renaud-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  <img align="center" alt="Renaud-Blender" height="30" width="40" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />
+  <img align="center" alt="Renaud-Gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" />
 </div>
       
 
@@ -43,11 +45,8 @@ Hi there! I am Renaud, a French developer living in the south of Brazil since 6 
     
 <div align="center" style="display: inline_block">
 
-  
   <img align="center" alt="Renaud-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Renaud-Gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" />
-  
- 
+
 </div>
 
 
