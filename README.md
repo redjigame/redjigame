@@ -1,6 +1,8 @@
 <h2>$ whoami</h2>
 <div>
-Hi there! I am Renaud, a French developer living in the south of Brazil since 7 years. French army veteran and aspiring developer focused in security operations. I am actually developer C# using Unity and .Net.
+Hi there! I am Renaud, a French developer living in the south of Brazil since 7 years. French army veteran and aspiring developer focused in security operations.
+<br/>
+I am actually developer C# using Unity and .Net.
 <br/>
 Linux enthusiast and <img align="center" alt="Renaud-Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /> belover.
 </div>
