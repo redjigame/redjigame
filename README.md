@@ -1,6 +1,6 @@
 <h2>$ whoami</h2>
 <div>
-Hi there! I am Renaud, a French developer living in the south of Brazil since 7 years. French army veteran and aspiring developer focused in security operations.
+Hi there! I am Renaud, a French developer living in the south of Brazil since 7 years. French army veteran and aspiring developer oriented security operations.
 <br/>
 I am actually developer C# using Unity and .Net.
 <br/>
