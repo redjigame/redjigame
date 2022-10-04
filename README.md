@@ -50,6 +50,7 @@ Linux enthusiast and <img align="center" alt="Renaud-Rust" height="30" width="40
   <img align="center" alt="Renaud-Gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" />
 </div>
       
+       <script src="https://tryhackme.com/badge/1189230"></script>
 
   <div align="center">
   <a href="https://github.com/redjigame">
