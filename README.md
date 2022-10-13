@@ -16,6 +16,11 @@ Linux enthusiast and <img align="center" alt="Renaud-Rust" height="30" width="40
 - 👋 Hi, I’m Renaud Regeard 
 - 📝 I’m interested to work and learn
 - ⚙ Actually learning cybersecurity
+
+<div align="center">
+  <img height="90em" src="https://tryhackme-badges.s3.amazonaws.com/redji.png" alt="TryHackMe">
+</div>
+
   
 <h2>Programming Languages</h2>
 <div style="display: inline_block">
@@ -62,7 +67,7 @@ Linux enthusiast and <img align="center" alt="Renaud-Rust" height="30" width="40
   <img align="center" alt="Renaud-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Renaud-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
   <img align="center" alt="Renaud-jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-   
+    
 </div>
     
 
