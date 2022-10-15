@@ -19,10 +19,14 @@ Linux enthusiast and <img align="center" alt="Renaud-Rust" height="20" width="30
   <img height="90em" src="https://tryhackme-badges.s3.amazonaws.com/redji.png" alt="TryHackMe">
 </div>
 <div align="center" style="display: inline_block">
-    <img align="center" alt="Renaud-Kali" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />
-  <img align="center" alt="Renaud-wireshark" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Wireshark_Logo.svg" />
-  <img align="center" alt="Renaud-wireshark" height="50" width="60" src="https://nmap.org/images/nmap-project-logo.svg" />
-
+<img align="center" alt="Renaud-Kali" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />
+<img align="center" alt="Renaud-wireshark" height="30" width="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Wireshark_Logo.svg" />
+<img align="center" alt="Renaud-nmap" height="40" width="40" src="https://nmap.org/images/nmap-project-logo.svg" />
+<img align="center" alt="Renaud-yara" height="40" width="40" src="https://www.kali.org/tools/yara/images/yara-logo.svg" />
+<img align="center" alt="Renaud-Metasploit" height="40" width="40" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" />
+<img align="center" alt="Renaud-burp" height="40" width="40" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" />
+<img align="center" alt="Renaud-hydra" height="40" width="40" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" />
+<img align="center" alt="Renaud-sqlmap" height="40" width="40" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" />
 </div>
 
   
