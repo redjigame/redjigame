@@ -55,6 +55,7 @@ Linux enthusiast and <img align="center" alt="Renaud-Rust" height="20" width="30
 <div style="display: inline_block">
       <img alt="Renaud-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img alt="Renaud-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img alt="Renaud-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
       <img align="center" alt="Renaud-Bt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img alt="Renaud-XML" height="60" width="40" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg">
   
