@@ -37,6 +37,8 @@ Linux enthusiast and <img align="center" alt="Renaud-Rust" height="20" width="30
   <img align="center" alt="Renaud-Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
   <img align="center" alt="Renaud-Php" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
   <img align="center" alt="Renaud-Bash" height="30" width="40"src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/>
+  <img align="center" alt="Renaud-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+   <img align="center" alt="Renaud-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 </div> 
   
 <h2>Framework</h2>
@@ -49,6 +51,7 @@ Linux enthusiast and <img align="center" alt="Renaud-Rust" height="20" width="30
 <img align="center" alt="Renaud-MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" alt="Renaud-MSSQLS" height="50" width="60" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
   <img align="center" alt="Renaud-SQLite" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  <img align="center" alt="Renaud-Postgresql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
 </div>
   
 <h2>Front-End Development</h2>
@@ -56,8 +59,9 @@ Linux enthusiast and <img align="center" alt="Renaud-Rust" height="20" width="30
       <img alt="Renaud-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img alt="Renaud-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img alt="Renaud-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+      <img alt="Renaud-Ionic" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" />
       <img align="center" alt="Renaud-Bt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img alt="Renaud-XML" height="60" width="40" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg">
+  <img alt="Renaud-XML" height="40" width="40" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg">
   
 </div>
   
