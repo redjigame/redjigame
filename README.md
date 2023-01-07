@@ -32,11 +32,9 @@ Linux enthusiast and <img align="center" alt="Renaud-Rust" height="20" width="30
   
 <h2>Programming Languages</h2>
 <div style="display: inline_block">
-  <img align="center" alt="Renaud-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="Renaud-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Renaud-Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
   <img align="center" alt="Renaud-Php" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
-  <img align="center" alt="Renaud-Bash" height="30" width="40"src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/>
   <img align="center" alt="Renaud-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
    <img align="center" alt="Renaud-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 </div> 
@@ -62,7 +60,15 @@ Linux enthusiast and <img align="center" alt="Renaud-Rust" height="20" width="30
       <img alt="Renaud-Ionic" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" />
       <img align="center" alt="Renaud-Bt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img alt="Renaud-XML" height="40" width="40" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg">
-  
+</div>
+
+<h2>DevOps</h2>
+<div style="display: inline_block">
+  <img align="center" alt="Renaud-Bash" height="30" width="40"src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/>
+  <img align="center" alt="Renaud-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+   <img align="center" alt="Renaud-Azure" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
+    <img align="center" alt="Renaud-Docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Renaud-jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 </div>
   
   <h2>Game Development</h2>
@@ -83,8 +89,6 @@ Linux enthusiast and <img align="center" alt="Renaud-Rust" height="20" width="30
 <div align="center" style="display: inline_block">
   <img align="center" alt="Renaud-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Renaud-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img align="center" alt="Renaud-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-  <img align="center" alt="Renaud-jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
    <img align="center" alt="Renaud-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   
 </div>
