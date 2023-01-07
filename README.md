@@ -64,6 +64,7 @@ Linux enthusiast and <img align="center" alt="Renaud-Rust" height="20" width="30
 
 <h2>DevOps</h2>
 <div style="display: inline_block">
+ <img align="center" alt="Renaud-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img align="center" alt="Renaud-Bash" height="30" width="40"src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/>
   <img align="center" alt="Renaud-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
    <img align="center" alt="Renaud-Azure" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
