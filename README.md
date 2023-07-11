@@ -4,7 +4,7 @@ Hi there! I am Renaud, a French developer living in the south of Brazil since 7 
 <br/>
 I am actually developer C# using Unity and .Net.
 <br/>
-Linux enthusiast and <img align="center" alt="Renaud-Rust" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /> belover.
+Linux enthusiast.
 </div>
 
 <div align="left">
