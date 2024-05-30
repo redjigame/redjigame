@@ -33,7 +33,7 @@ Linux enthusiast.
 <h2>Programming Languages</h2>
 <div style="display: inline_block">
   <img align="center" alt="Renaud-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-  <img align="center" alt="Renaud-Rust" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frust-lang%2Frust%2Fissues%2F11562&psig=AOvVaw3-yK9od8-KzsOC7hFLnJPy&ust=1717199161311000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiT0sPHtoYDFQAAAAAdAAAAABAE)" />
+  <img align="center" alt="Renaud-Rust" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frust-lang%2Frust%2Fissues%2F11562&psig=AOvVaw3-yK9od8-KzsOC7hFLnJPy&ust=1717199161311000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiT0sPHtoYDFQAAAAAdAAAAABAE)" />
   <img align="center" alt="Renaud-Php" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
   <img align="center" alt="Renaud-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
    <img align="center" alt="Renaud-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
